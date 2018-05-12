@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '39911'
     url: http://www.gutenberg.org/2009/agents/39911
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39235#A-Manual-of-Toy-DogsHow-to-breed-rear-and-feed-them
 gutenberg_bookshelf: Animals-Domestic
 gutenberg_issued: '2012-03-24'
 gutenberg_type: Text
