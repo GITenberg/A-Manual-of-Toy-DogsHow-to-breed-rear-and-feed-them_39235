@@ -1,0 +1,27 @@
+_repo: A-Manual-of-Toy-DogsHow-to-breed-rear-and-feed-them_39235
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Williams, Leslie, Mrs.
+    alias: Williams, Mrs. Leslie
+    gutenberg_agent_id: '39911'
+    url: http://www.gutenberg.org/2009/agents/39911
+description: ''
+gutenberg_bookshelf: Animals-Domestic
+gutenberg_issued: '2012-03-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39235'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'SF'
+- !lcsh 'Dogs'
+- !lcsh 'Toy dogs'
+title: 'A Manual of Toy Dogs: How to breed, rear, and feed them'
+url: http://www.gutenberg.org/ebooks/39235
